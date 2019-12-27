@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-df = pd.read_csv('Data_Entry_2017.csv')
+df = pd.read_csv('single_diagnosis.csv')
 print(df)
 new_df = df[df["C"].str.contains("Cardiomegaly")]
 new_df = new_df[:100]
