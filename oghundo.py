@@ -3,11 +3,10 @@ import numpy as np
 df = pd.read_csv('single_diagnosis.csv')
 print(df)
 new_df = df[df["C"].str.contains("Cardiomegaly")]
-new_da = new_df[:300]
-
+new_df = new_df[:100]
 da = df[df['C'].str.contains("No Finding")]
-db = da[:300]
-dg = pd.concat([new_da, db])
+da = da[:100]
+dg = pd.concat([new_df, da])
 print(dg)
 dg.reset_index()
-dg.to_csv(r'./quintihundo.csv')
+dg.to_csv(r'./hundo.csv')

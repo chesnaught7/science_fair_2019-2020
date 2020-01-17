@@ -1,0 +1,1202 @@
+,,
+TRAIN,gs://lung_x-ray/images/00000001_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00000008_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00000013_045.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00000032_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00000032_021.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00000032_029.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00000032_053.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00000032_055.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00000032_056.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00000038_003.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00000044_002.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00000045_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00000069_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00000075_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00000075_001.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00000077_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00000096_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00000116_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00000116_016.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00000131_001.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00000155_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00000176_001.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00000200_001.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00000211_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00000211_001.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00000211_002.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00000211_022.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00000211_038.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00000211_043.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00000233_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00000240_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00000271_004.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00000272_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00000287_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00000294_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00000330_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00000338_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00000374_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00000377_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00000377_004.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00000398_006.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00000406_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00000442_003.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00000448_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00000498_003.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00000512_002.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00000547_005.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00000578_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00000607_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00000661_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00000683_002.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00000688_001.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00000728_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00000761_006.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00000787_002.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00000814_001.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00000823_005.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00000825_003.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00000837_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00000845_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00000864_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00000897_001.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00000948_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00001022_001.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00001075_038.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00001075_045.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00001086_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00001122_016.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00001157_001.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00001249_009.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00001249_010.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00001268_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00001355_005.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00001369_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00001373_001.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00001373_006.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00001373_009.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00001373_012.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00001373_013.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00001373_021.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00001373_022.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00001373_026.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00001385_004.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00001582_012.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00001784_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00001831_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00001868_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00001959_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00002038_001.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00002059_002.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00002083_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00002084_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00002103_001.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00002256_012.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00002256_013.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00002256_016.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00002262_003.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00002280_002.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00002280_003.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00002418_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00002434_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00002434_001.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00002435_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00002435_001.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00002435_005.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00002435_008.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00002435_009.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00002435_010.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00002491_006.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00002497_001.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00002506_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00002541_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00002604_001.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00002686_001.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00002704_029.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00002742_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00002743_006.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00002798_003.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00002806_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00002806_005.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00002889_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00002932_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00002966_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00002968_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00003014_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00003015_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00003044_001.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00003087_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00003087_001.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00003088_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00003091_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00003163_001.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00003180_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00003209_003.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00003229_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00003283_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00003350_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00003361_006.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00003394_006.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00003395_005.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00003410_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00003414_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00003483_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00003501_001.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00003501_003.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00003552_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00003552_003.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00003567_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00003583_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00003598_002.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00003610_012.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00003610_013.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00003610_015.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00003610_018.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00003610_023.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00003665_010.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00003700_001.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00003744_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00003817_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00003875_008.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00003889_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00003895_005.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00003914_004.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00003973_002.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00003973_004.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00003989_003.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00003989_010.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00003989_015.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00003989_021.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00003989_022.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00003989_024.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00003989_025.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00003990_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00003992_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004003_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004006_037.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004006_068.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004007_002.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004007_004.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004010_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004144_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004182_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004232_001.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004251_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004291_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004291_002.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004315_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004342_007.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004342_013.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004342_015.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004342_020.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004342_023.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004342_030.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004342_036.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004342_055.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004344_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004344_007.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004344_013.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004344_038.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004344_040.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004344_041.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004344_043.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004344_046.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004363_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004381_001.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004381_011.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004381_016.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004381_027.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004381_028.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004381_037.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004381_041.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004381_043.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004381_044.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004381_047.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004381_049.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004452_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004461_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004479_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004511_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004526_002.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004526_005.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004526_007.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004526_008.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004526_012.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004526_016.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004526_020.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004533_002.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004533_009.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004533_010.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004533_011.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004533_012.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004533_017.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004533_018.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004533_019.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004533_021.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004534_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004534_001.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004534_003.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004534_004.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004534_005.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004554_001.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004556_001.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004599_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004606_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004630_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004630_001.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004630_002.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004725_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004728_001.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004746_004.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004755_009.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004775_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004794_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004809_001.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004809_008.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004822_007.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004822_010.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004822_042.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004822_051.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004824_011.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004843_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004843_001.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004843_003.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004847_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004857_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004857_002.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004857_011.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004857_013.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004880_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004892_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004893_006.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004893_007.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004893_025.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004893_063.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004893_073.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004893_075.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004893_082.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004893_084.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00004954_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00005035_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00005035_001.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00005035_003.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00005035_004.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00005038_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00005062_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00005064_012.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00005064_013.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00005066_002.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00005066_007.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00005066_008.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00005066_036.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00005066_048.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00005066_063.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00005066_065.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00005090_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00005213_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00005249_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00005255_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00005266_001.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00005270_007.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00005401_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00005425_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00005426_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00005434_004.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00005516_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00005532_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00005532_001.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00005532_007.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00005532_031.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00005538_002.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00005543_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00005556_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00005566_008.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00005610_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00005641_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00005641_001.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00005641_003.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00005641_004.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00005641_005.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00005666_004.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00005689_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00005699_004.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00005717_001.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00005750_029.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00005778_005.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00005778_016.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00005778_026.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00005805_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00005827_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00005900_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00005906_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00005942_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00005942_001.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00006068_002.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00006129_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00006166_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00006296_006.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00006317_003.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00006327_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00006332_008.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00006339_002.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00006341_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00006359_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00006386_007.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00006411_017.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00006469_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00006469_006.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00006481_005.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00006481_015.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00006481_032.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00006483_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00006493_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00006531_001.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00006537_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00006549_006.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00006624_003.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00006799_002.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00006806_001.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00006808_002.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00006808_003.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00006808_007.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00006808_008.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00006808_009.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00006808_010.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00006808_011.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00006808_012.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00006808_035.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00006826_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00006850_023.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00006875_002.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00006875_003.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00006875_004.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00006875_007.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00006875_008.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00006875_010.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00006875_011.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00006875_022.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00006875_027.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00006875_029.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00006875_031.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00006894_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00006906_002.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00006912_007.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00006920_004.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00006991_007.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00007016_001.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00007018_014.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00007043_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00007094_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00007157_011.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00007164_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00007228_001.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00007279_004.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00007326_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00007393_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00007428_004.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00007498_001.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00007510_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00007510_001.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00007551_015.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00007551_016.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00007551_018.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00007551_020.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00007551_021.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00007620_020.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00007651_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00007654_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00007688_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00007729_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00007735_016.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00007735_025.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00007735_031.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00007735_037.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00007735_038.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00007735_040.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00007740_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00007798_001.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00007858_004.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00007921_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00007945_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00007961_001.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00007989_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00008002_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00008006_001.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00008073_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00008096_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00008129_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00008226_004.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00008309_005.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00008309_008.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00008309_014.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00008316_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00008339_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00008342_025.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00008399_007.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00008404_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00008508_002.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00008605_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00008649_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00008738_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00008806_014.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00008861_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00008871_001.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00008898_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00008916_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00009001_007.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00009050_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00009156_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00009174_000.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00009188_001.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00009191_000.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00009196_001.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00009229_000.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00009257_000.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00009316_000.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00009323_004.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00009407_000.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00009593_000.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00009595_000.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00009608_024.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00009609_004.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00009636_001.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00009717_002.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00009722_000.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00009734_000.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00009745_000.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00009798_015.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00009812_000.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00009813_009.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00009826_001.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00009841_000.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00009883_000.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00009912_002.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00009932_002.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00009932_004.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00009934_007.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00009934_008.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00010007_066.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00010007_080.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00010007_103.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00010007_165.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00010095_000.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00010165_001.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00010177_000.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00010262_001.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00010372_002.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00010381_000.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00010388_001.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00010437_002.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00010437_003.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00010448_000.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00010454_000.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00010524_000.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00010531_037.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00010531_047.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00010535_012.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00010585_027.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00010596_000.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00010625_019.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00010629_000.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00010638_001.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00010644_002.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00010699_000.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00010728_000.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00010785_000.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00010808_000.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00010808_002.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00010858_000.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00010897_008.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00010897_012.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00010897_015.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00010897_016.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00010939_000.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00010968_000.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00010970_000.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00010994_000.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00010994_003.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00010994_004.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00010994_005.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00010994_011.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00011010_002.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00011010_011.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00011018_001.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00011023_003.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00011052_000.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00011136_012.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00011139_000.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00011140_015.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00011169_000.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00011190_000.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00011190_001.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00011208_001.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00011235_001.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00011235_002.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00011235_003.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00011263_000.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00011263_004.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00011277_000.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00011289_000.png,Cardiomegaly
+TEST,gs://lung_x-ray/images/00011301_000.png,Cardiomegaly
+VALIDATE,gs://lung_x-ray/images/00011312_000.png,Cardiomegaly
+VALIDATE,gs://lung_x-ray/images/00011322_002.png,Cardiomegaly
+VALIDATE,gs://lung_x-ray/images/00011322_004.png,Cardiomegaly
+VALIDATE,gs://lung_x-ray/images/00011322_005.png,Cardiomegaly
+VALIDATE,gs://lung_x-ray/images/00011322_007.png,Cardiomegaly
+VALIDATE,gs://lung_x-ray/images/00011443_001.png,Cardiomegaly
+VALIDATE,gs://lung_x-ray/images/00011463_000.png,Cardiomegaly
+VALIDATE,gs://lung_x-ray/images/00011463_001.png,Cardiomegaly
+VALIDATE,gs://lung_x-ray/images/00011496_000.png,Cardiomegaly
+VALIDATE,gs://lung_x-ray/images/00011498_000.png,Cardiomegaly
+VALIDATE,gs://lung_x-ray/images/00011507_000.png,Cardiomegaly
+VALIDATE,gs://lung_x-ray/images/00011507_002.png,Cardiomegaly
+VALIDATE,gs://lung_x-ray/images/00011516_001.png,Cardiomegaly
+VALIDATE,gs://lung_x-ray/images/00011553_015.png,Cardiomegaly
+VALIDATE,gs://lung_x-ray/images/00011558_014.png,Cardiomegaly
+VALIDATE,gs://lung_x-ray/images/00011622_001.png,Cardiomegaly
+VALIDATE,gs://lung_x-ray/images/00011661_000.png,Cardiomegaly
+VALIDATE,gs://lung_x-ray/images/00011749_000.png,Cardiomegaly
+VALIDATE,gs://lung_x-ray/images/00011760_001.png,Cardiomegaly
+VALIDATE,gs://lung_x-ray/images/00011764_004.png,Cardiomegaly
+VALIDATE,gs://lung_x-ray/images/00011827_011.png,Cardiomegaly
+VALIDATE,gs://lung_x-ray/images/00011827_012.png,Cardiomegaly
+VALIDATE,gs://lung_x-ray/images/00011827_013.png,Cardiomegaly
+VALIDATE,gs://lung_x-ray/images/00011849_000.png,Cardiomegaly
+VALIDATE,gs://lung_x-ray/images/00011925_002.png,Cardiomegaly
+VALIDATE,gs://lung_x-ray/images/00011949_000.png,Cardiomegaly
+VALIDATE,gs://lung_x-ray/images/00012006_000.png,Cardiomegaly
+VALIDATE,gs://lung_x-ray/images/00012038_001.png,Cardiomegaly
+VALIDATE,gs://lung_x-ray/images/00012081_000.png,Cardiomegaly
+VALIDATE,gs://lung_x-ray/images/00012092_003.png,Cardiomegaly
+VALIDATE,gs://lung_x-ray/images/00012148_004.png,Cardiomegaly
+VALIDATE,gs://lung_x-ray/images/00012150_000.png,Cardiomegaly
+VALIDATE,gs://lung_x-ray/images/00012207_000.png,Cardiomegaly
+VALIDATE,gs://lung_x-ray/images/00012218_001.png,Cardiomegaly
+VALIDATE,gs://lung_x-ray/images/00012250_001.png,Cardiomegaly
+VALIDATE,gs://lung_x-ray/images/00012275_000.png,Cardiomegaly
+VALIDATE,gs://lung_x-ray/images/00012276_002.png,Cardiomegaly
+VALIDATE,gs://lung_x-ray/images/00012276_018.png,Cardiomegaly
+VALIDATE,gs://lung_x-ray/images/00012288_000.png,Cardiomegaly
+VALIDATE,gs://lung_x-ray/images/00012332_000.png,Cardiomegaly
+VALIDATE,gs://lung_x-ray/images/00012346_000.png,Cardiomegaly
+VALIDATE,gs://lung_x-ray/images/00012381_001.png,Cardiomegaly
+VALIDATE,gs://lung_x-ray/images/00012381_002.png,Cardiomegaly
+VALIDATE,gs://lung_x-ray/images/00012381_003.png,Cardiomegaly
+VALIDATE,gs://lung_x-ray/images/00012420_000.png,Cardiomegaly
+VALIDATE,gs://lung_x-ray/images/00012463_000.png,Cardiomegaly
+VALIDATE,gs://lung_x-ray/images/00012509_000.png,Cardiomegaly
+VALIDATE,gs://lung_x-ray/images/00012523_000.png,Cardiomegaly
+VALIDATE,gs://lung_x-ray/images/00012565_000.png,Cardiomegaly
+VALIDATE,gs://lung_x-ray/images/00012580_000.png,Cardiomegaly
+VALIDATE,gs://lung_x-ray/images/00012646_008.png,Cardiomegaly
+VALIDATE,gs://lung_x-ray/images/00012646_012.png,Cardiomegaly
+VALIDATE,gs://lung_x-ray/images/00012646_015.png,Cardiomegaly
+VALIDATE,gs://lung_x-ray/images/00012659_043.png,Cardiomegaly
+VALIDATE,gs://lung_x-ray/images/00012681_003.png,Cardiomegaly
+VALIDATE,gs://lung_x-ray/images/00012707_000.png,Cardiomegaly
+VALIDATE,gs://lung_x-ray/images/00012793_000.png,Cardiomegaly
+VALIDATE,gs://lung_x-ray/images/00012798_000.png,Cardiomegaly
+VALIDATE,gs://lung_x-ray/images/00012799_001.png,Cardiomegaly
+VALIDATE,gs://lung_x-ray/images/00012845_001.png,Cardiomegaly
+TRAIN,gs://lung_x-ray/images/00000002_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000005_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000005_001.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000005_002.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000005_003.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000005_004.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000005_005.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000006_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000007_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000008_001.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000011_001.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000011_002.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000011_003.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000011_004.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000011_008.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000013_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000013_008.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000013_014.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000013_015.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000013_016.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000013_017.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000013_019.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000013_038.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000014_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000015_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000016_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000017_001.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000017_002.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000018_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000022_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000023_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000023_001.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000023_003.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000029_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000031_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000032_002.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000032_003.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000032_005.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000032_008.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000032_009.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000032_010.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000032_019.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000032_020.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000032_022.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000032_025.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000032_042.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000032_046.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000032_048.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000032_049.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000032_051.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000034_001.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000035_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000035_001.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000037_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000038_002.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000038_004.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000038_005.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000038_007.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000039_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000039_001.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000039_002.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000039_003.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000040_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000040_002.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000041_003.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000041_004.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000042_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000042_001.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000042_002.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000042_003.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000042_004.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000042_005.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000042_007.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000042_008.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000046_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000047_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000047_001.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000047_002.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000047_005.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000047_007.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000048_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000049_001.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000049_002.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000050_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000050_001.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000050_002.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000050_003.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000052_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000052_001.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000054_001.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000054_002.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000054_003.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000054_004.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000054_005.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000054_007.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000054_008.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000054_009.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000055_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000057_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000057_001.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000057_003.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000059_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000059_001.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000061_016.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000061_019.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000061_021.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000061_022.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000064_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000065_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000067_002.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000068_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000070_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000071_003.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000073_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000073_001.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000073_003.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000073_004.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000073_005.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000073_006.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000073_007.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000073_008.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000073_009.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000078_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000080_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000080_002.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000080_003.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000080_005.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000081_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000082_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000083_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000085_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000086_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000087_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000087_001.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000090_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000090_001.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000090_002.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000090_006.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000090_007.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000090_010.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000091_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000091_006.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000091_007.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000092_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000093_002.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000094_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000095_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000096_008.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000097_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000098_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000099_006.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000100_001.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000104_001.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000105_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000105_001.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000105_003.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000106_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000107_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000108_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000108_001.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000109_002.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000109_004.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000109_005.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000109_006.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000110_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000112_001.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000113_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000115_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000116_027.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000116_030.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000116_038.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000116_039.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000118_008.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000118_012.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000118_014.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000118_016.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000121_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000121_001.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000121_002.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000121_003.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000121_004.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000121_005.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000121_008.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000121_009.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000122_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000126_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000127_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000127_001.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000127_006.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000127_008.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000129_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000129_001.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000130_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000132_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000133_001.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000133_002.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000135_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000135_001.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000136_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000137_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000137_001.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000138_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000138_001.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000138_003.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000139_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000139_001.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000139_002.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000140_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000141_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000142_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000143_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000143_001.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000143_003.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000143_004.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000143_005.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000143_007.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000143_010.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000144_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000144_002.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000146_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000148_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000148_003.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000149_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000149_001.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000149_003.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000149_004.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000149_008.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000149_009.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000150_001.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000150_005.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000151_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000151_001.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000151_002.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000152_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000153_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000155_001.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000158_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000160_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000161_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000162_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000163_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000163_001.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000165_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000165_002.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000165_008.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000166_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000167_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000167_001.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000168_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000168_001.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000169_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000169_001.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000170_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000171_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000172_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000172_001.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000172_002.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000172_003.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000172_004.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000172_005.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000172_006.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000173_001.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000174_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000174_003.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000174_004.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000175_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000176_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000177_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000177_001.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000177_002.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000177_003.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000177_004.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000177_005.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000179_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000180_001.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000181_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000181_002.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000181_004.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000181_012.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000181_014.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000181_020.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000181_022.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000181_023.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000181_024.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000181_025.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000181_026.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000181_027.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000181_031.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000181_034.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000181_039.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000181_041.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000181_049.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000181_051.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000181_053.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000181_056.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000181_057.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000181_063.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000181_064.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000181_065.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000182_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000183_001.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000184_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000184_001.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000185_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000186_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000187_001.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000187_002.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000188_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000188_001.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000190_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000190_001.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000190_002.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000190_003.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000190_004.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000190_005.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000191_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000192_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000193_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000193_001.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000193_002.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000193_003.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000193_004.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000193_005.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000193_007.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000193_008.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000193_009.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000193_010.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000193_011.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000193_012.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000193_013.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000193_014.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000193_015.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000193_016.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000193_017.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000193_018.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000194_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000194_001.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000194_002.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000194_003.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000194_004.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000194_005.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000195_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000196_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000197_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000197_001.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000197_002.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000197_003.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000198_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000199_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000199_003.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000201_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000201_001.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000202_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000202_001.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000204_003.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000205_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000206_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000206_001.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000207_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000209_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000210_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000210_001.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000211_003.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000211_017.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000211_020.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000211_030.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000211_033.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000211_036.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000211_042.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000213_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000213_001.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000213_005.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000214_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000217_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000218_002.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000218_003.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000218_007.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000218_008.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000219_002.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000219_003.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000220_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000222_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000223_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000225_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000225_001.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000226_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000227_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000227_001.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000228_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000229_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000230_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000230_006.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000230_007.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000231_001.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000231_005.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000231_007.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000231_008.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000231_010.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000231_012.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000231_013.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000234_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000235_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000237_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000238_001.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000239_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000239_001.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000239_003.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000239_004.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000239_005.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000241_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000241_001.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000242_001.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000242_002.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000242_003.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000242_004.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000243_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000244_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000244_001.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000245_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000246_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000246_002.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000246_003.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000246_004.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000246_007.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000246_009.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000246_018.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000246_019.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000248_001.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000248_003.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000248_011.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000248_012.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000248_021.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000248_025.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000248_026.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000249_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000250_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000250_002.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000250_006.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000250_009.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000250_011.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000250_012.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000250_013.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000251_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000251_004.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000252_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000252_001.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000253_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000254_001.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000255_000.png,No Finding
+TRAIN,gs://lung_x-ray/images/00000255_001.png,No Finding
+TEST,gs://lung_x-ray/images/00000255_002.png,No Finding
+TEST,gs://lung_x-ray/images/00000255_003.png,No Finding
+TEST,gs://lung_x-ray/images/00000255_005.png,No Finding
+TEST,gs://lung_x-ray/images/00000257_000.png,No Finding
+TEST,gs://lung_x-ray/images/00000259_000.png,No Finding
+TEST,gs://lung_x-ray/images/00000260_000.png,No Finding
+TEST,gs://lung_x-ray/images/00000262_000.png,No Finding
+TEST,gs://lung_x-ray/images/00000263_000.png,No Finding
+TEST,gs://lung_x-ray/images/00000264_000.png,No Finding
+TEST,gs://lung_x-ray/images/00000265_000.png,No Finding
+TEST,gs://lung_x-ray/images/00000265_001.png,No Finding
+TEST,gs://lung_x-ray/images/00000265_002.png,No Finding
+TEST,gs://lung_x-ray/images/00000265_003.png,No Finding
+TEST,gs://lung_x-ray/images/00000265_004.png,No Finding
+TEST,gs://lung_x-ray/images/00000265_005.png,No Finding
+TEST,gs://lung_x-ray/images/00000266_000.png,No Finding
+TEST,gs://lung_x-ray/images/00000267_000.png,No Finding
+TEST,gs://lung_x-ray/images/00000268_000.png,No Finding
+TEST,gs://lung_x-ray/images/00000268_002.png,No Finding
+TEST,gs://lung_x-ray/images/00000269_001.png,No Finding
+TEST,gs://lung_x-ray/images/00000271_000.png,No Finding
+TEST,gs://lung_x-ray/images/00000271_001.png,No Finding
+TEST,gs://lung_x-ray/images/00000271_002.png,No Finding
+TEST,gs://lung_x-ray/images/00000271_003.png,No Finding
+TEST,gs://lung_x-ray/images/00000272_001.png,No Finding
+TEST,gs://lung_x-ray/images/00000272_002.png,No Finding
+TEST,gs://lung_x-ray/images/00000272_003.png,No Finding
+TEST,gs://lung_x-ray/images/00000272_004.png,No Finding
+TEST,gs://lung_x-ray/images/00000272_005.png,No Finding
+TEST,gs://lung_x-ray/images/00000272_006.png,No Finding
+TEST,gs://lung_x-ray/images/00000273_001.png,No Finding
+TEST,gs://lung_x-ray/images/00000273_004.png,No Finding
+TEST,gs://lung_x-ray/images/00000273_005.png,No Finding
+TEST,gs://lung_x-ray/images/00000273_006.png,No Finding
+TEST,gs://lung_x-ray/images/00000273_007.png,No Finding
+TEST,gs://lung_x-ray/images/00000273_008.png,No Finding
+TEST,gs://lung_x-ray/images/00000273_009.png,No Finding
+TEST,gs://lung_x-ray/images/00000274_001.png,No Finding
+TEST,gs://lung_x-ray/images/00000275_004.png,No Finding
+TEST,gs://lung_x-ray/images/00000276_000.png,No Finding
+TEST,gs://lung_x-ray/images/00000277_000.png,No Finding
+TEST,gs://lung_x-ray/images/00000277_002.png,No Finding
+TEST,gs://lung_x-ray/images/00000278_000.png,No Finding
+TEST,gs://lung_x-ray/images/00000278_002.png,No Finding
+TEST,gs://lung_x-ray/images/00000278_003.png,No Finding
+TEST,gs://lung_x-ray/images/00000278_004.png,No Finding
+TEST,gs://lung_x-ray/images/00000278_005.png,No Finding
+TEST,gs://lung_x-ray/images/00000278_006.png,No Finding
+TEST,gs://lung_x-ray/images/00000278_007.png,No Finding
+TEST,gs://lung_x-ray/images/00000278_009.png,No Finding
+TEST,gs://lung_x-ray/images/00000279_000.png,No Finding
+TEST,gs://lung_x-ray/images/00000280_000.png,No Finding
+TEST,gs://lung_x-ray/images/00000280_001.png,No Finding
+TEST,gs://lung_x-ray/images/00000281_000.png,No Finding
+TEST,gs://lung_x-ray/images/00000281_001.png,No Finding
+TEST,gs://lung_x-ray/images/00000281_002.png,No Finding
+TEST,gs://lung_x-ray/images/00000282_001.png,No Finding
+TEST,gs://lung_x-ray/images/00000283_000.png,No Finding
+TEST,gs://lung_x-ray/images/00000285_000.png,No Finding
+TEST,gs://lung_x-ray/images/00000285_002.png,No Finding
+TEST,gs://lung_x-ray/images/00000285_003.png,No Finding
+TEST,gs://lung_x-ray/images/00000285_004.png,No Finding
+TEST,gs://lung_x-ray/images/00000288_001.png,No Finding
+TEST,gs://lung_x-ray/images/00000288_002.png,No Finding
+TEST,gs://lung_x-ray/images/00000288_003.png,No Finding
+TEST,gs://lung_x-ray/images/00000289_000.png,No Finding
+TEST,gs://lung_x-ray/images/00000289_001.png,No Finding
+TEST,gs://lung_x-ray/images/00000289_002.png,No Finding
+TEST,gs://lung_x-ray/images/00000289_003.png,No Finding
+TEST,gs://lung_x-ray/images/00000289_004.png,No Finding
+TEST,gs://lung_x-ray/images/00000289_005.png,No Finding
+TEST,gs://lung_x-ray/images/00000289_006.png,No Finding
+TEST,gs://lung_x-ray/images/00000290_000.png,No Finding
+TEST,gs://lung_x-ray/images/00000290_001.png,No Finding
+TEST,gs://lung_x-ray/images/00000290_002.png,No Finding
+TEST,gs://lung_x-ray/images/00000290_003.png,No Finding
+TEST,gs://lung_x-ray/images/00000291_000.png,No Finding
+TEST,gs://lung_x-ray/images/00000292_000.png,No Finding
+TEST,gs://lung_x-ray/images/00000293_000.png,No Finding
+TEST,gs://lung_x-ray/images/00000294_001.png,No Finding
+TEST,gs://lung_x-ray/images/00000295_000.png,No Finding
+TEST,gs://lung_x-ray/images/00000296_003.png,No Finding
+TEST,gs://lung_x-ray/images/00000298_000.png,No Finding
+TEST,gs://lung_x-ray/images/00000299_000.png,No Finding
+TEST,gs://lung_x-ray/images/00000300_000.png,No Finding
+TEST,gs://lung_x-ray/images/00000301_000.png,No Finding
+TEST,gs://lung_x-ray/images/00000301_001.png,No Finding
+TEST,gs://lung_x-ray/images/00000304_000.png,No Finding
+TEST,gs://lung_x-ray/images/00000304_001.png,No Finding
+TEST,gs://lung_x-ray/images/00000304_002.png,No Finding
+VALIDATE,gs://lung_x-ray/images/00000305_000.png,No Finding
+VALIDATE,gs://lung_x-ray/images/00000305_002.png,No Finding
+VALIDATE,gs://lung_x-ray/images/00000308_000.png,No Finding
+VALIDATE,gs://lung_x-ray/images/00000309_000.png,No Finding
+VALIDATE,gs://lung_x-ray/images/00000310_000.png,No Finding
+VALIDATE,gs://lung_x-ray/images/00000310_002.png,No Finding
+VALIDATE,gs://lung_x-ray/images/00000310_003.png,No Finding
+VALIDATE,gs://lung_x-ray/images/00000310_005.png,No Finding
+VALIDATE,gs://lung_x-ray/images/00000311_001.png,No Finding
+VALIDATE,gs://lung_x-ray/images/00000312_000.png,No Finding
+VALIDATE,gs://lung_x-ray/images/00000312_002.png,No Finding
+VALIDATE,gs://lung_x-ray/images/00000315_000.png,No Finding
+VALIDATE,gs://lung_x-ray/images/00000315_004.png,No Finding
+VALIDATE,gs://lung_x-ray/images/00000315_005.png,No Finding
+VALIDATE,gs://lung_x-ray/images/00000317_000.png,No Finding
+VALIDATE,gs://lung_x-ray/images/00000317_001.png,No Finding
+VALIDATE,gs://lung_x-ray/images/00000317_002.png,No Finding
+VALIDATE,gs://lung_x-ray/images/00000317_003.png,No Finding
+VALIDATE,gs://lung_x-ray/images/00000317_004.png,No Finding
+VALIDATE,gs://lung_x-ray/images/00000318_000.png,No Finding
+VALIDATE,gs://lung_x-ray/images/00000318_001.png,No Finding
+VALIDATE,gs://lung_x-ray/images/00000318_002.png,No Finding
+VALIDATE,gs://lung_x-ray/images/00000318_003.png,No Finding
+VALIDATE,gs://lung_x-ray/images/00000318_004.png,No Finding
+VALIDATE,gs://lung_x-ray/images/00000318_005.png,No Finding
+VALIDATE,gs://lung_x-ray/images/00000318_006.png,No Finding
+VALIDATE,gs://lung_x-ray/images/00000318_007.png,No Finding
+VALIDATE,gs://lung_x-ray/images/00000318_008.png,No Finding
+VALIDATE,gs://lung_x-ray/images/00000318_009.png,No Finding
+VALIDATE,gs://lung_x-ray/images/00000319_000.png,No Finding
+VALIDATE,gs://lung_x-ray/images/00000320_000.png,No Finding
+VALIDATE,gs://lung_x-ray/images/00000321_000.png,No Finding
+VALIDATE,gs://lung_x-ray/images/00000321_002.png,No Finding
+VALIDATE,gs://lung_x-ray/images/00000321_003.png,No Finding
+VALIDATE,gs://lung_x-ray/images/00000321_004.png,No Finding
+VALIDATE,gs://lung_x-ray/images/00000321_005.png,No Finding
+VALIDATE,gs://lung_x-ray/images/00000322_001.png,No Finding
+VALIDATE,gs://lung_x-ray/images/00000322_002.png,No Finding
+VALIDATE,gs://lung_x-ray/images/00000322_004.png,No Finding
+VALIDATE,gs://lung_x-ray/images/00000322_005.png,No Finding
+VALIDATE,gs://lung_x-ray/images/00000322_006.png,No Finding
+VALIDATE,gs://lung_x-ray/images/00000322_008.png,No Finding
+VALIDATE,gs://lung_x-ray/images/00000322_012.png,No Finding
+VALIDATE,gs://lung_x-ray/images/00000323_000.png,No Finding
+VALIDATE,gs://lung_x-ray/images/00000324_002.png,No Finding
+VALIDATE,gs://lung_x-ray/images/00000324_005.png,No Finding
+VALIDATE,gs://lung_x-ray/images/00000324_006.png,No Finding
+VALIDATE,gs://lung_x-ray/images/00000324_008.png,No Finding
+VALIDATE,gs://lung_x-ray/images/00000324_009.png,No Finding
+VALIDATE,gs://lung_x-ray/images/00000324_012.png,No Finding
+VALIDATE,gs://lung_x-ray/images/00000324_013.png,No Finding
+VALIDATE,gs://lung_x-ray/images/00000324_014.png,No Finding
+VALIDATE,gs://lung_x-ray/images/00000324_017.png,No Finding
+VALIDATE,gs://lung_x-ray/images/00000325_000.png,No Finding
+VALIDATE,gs://lung_x-ray/images/00000327_000.png,No Finding
+VALIDATE,gs://lung_x-ray/images/00000327_001.png,No Finding
+VALIDATE,gs://lung_x-ray/images/00000327_002.png,No Finding
+VALIDATE,gs://lung_x-ray/images/00000327_003.png,No Finding
+VALIDATE,gs://lung_x-ray/images/00000328_000.png,No Finding
+VALIDATE,gs://lung_x-ray/images/00000329_000.png,No Finding
+,00000329_000.png,
