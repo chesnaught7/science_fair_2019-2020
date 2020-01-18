@@ -14,8 +14,8 @@ ap = 0
 pa = 0
 for index, row in df.iterrows():
     if 'Cardiomegaly' in row['C']:
-        print(row[0])
+        print(row[1])
         os.rename('/media/adhit/Iomega/images/' + str(row[1]), '/media/adhit/Iomega/images/cardiomegaly/' + str(row[1]))
     elif 'No Finding' in row['C']:
-        print(row[0])
+        print(row[1])
         os.rename("/media/adhit/Iomega/images/" + str(row[1]), '/media/adhit/Iomega/images/nf' + str(row[1]))
