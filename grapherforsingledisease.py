@@ -78,5 +78,6 @@ ax.set_title("Single Disease Distribution")
 ax.tick_params(axis='both', which='major', labelsize=5)
 ax.tick_params(axis='both', which='minor', labelsize=5)
 
-plt.show()
+
 plt.savefig('single_disease_distribution_graph.pdf')
+plt.show()

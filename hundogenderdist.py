@@ -7,12 +7,11 @@ import pandas as pd
 m = 0
 f = 0
 
-data = pd.read_csv('./hundo.csv')
+data = pd.read_csv('./cardiomegaly.csv')
 df = pd.DataFrame(data)
 print(df)
-df = df[~df["C"].str.contains("No Finding")]
-new_df = df[df["Patient Gender"].str.contains("M")]
-df_1 = df[df["Patient Gender"].str.contains("F")]
+new_df = df[df["Patient Gender"].str.contains("m")]
+df_1 = df[df["Patient Gender"].str.contains("f")]
 
 for index, row in new_df.iterrows():
     m += 1
@@ -34,5 +33,6 @@ ax.set_title("Gender Distribution for Cardiomegaly")
 ax.tick_params(axis='both', which='major', labelsize=5)
 ax.tick_params(axis='both', which='minor', labelsize=5)
 
-plt.show()
+
 plt.savefig('genderdistnf.pdf')
+plt.show()
