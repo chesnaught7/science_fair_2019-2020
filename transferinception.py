@@ -8,11 +8,12 @@ import numpy as np
 import torchvision
 from torchvision import datasets, models, transforms
 import matplotlib.pyplot as plt
-import time
+
 import os
 import copy
 import time
 plt.ion()
+
 
 data_transforms = {
     'train': transforms.Compose([
@@ -40,6 +41,7 @@ dataset_sizes = {x: len(image_datasets[x]) for x in ['train', 'val']}
 class_names = image_datasets['train'].classes
 
 device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
+
 
 def imshow(inp, title=None):
     """Imshow for Tensor."""
@@ -115,6 +117,8 @@ def train_model(model, criterion, optimizer, scheduler, num_epochs=2):
         print()
 
     time_elapsed = time.time() - since
+    train_losses.append(running_loss/len(trainloader))
+    test_losses.append(test_loss/len(testloader))
     print('Training complete in {:.0f}m {:.0f}s'.format(
         time_elapsed // 60, time_elapsed % 60))
     print('Best val Acc: {:4f}'.format(best_acc))
@@ -155,7 +159,7 @@ num_ftrs = model_ft.fc.in_features
 # Alternatively, it can be generalized to nn.Linear(num_ftrs, len(class_names)).
 model_ft.fc = nn.Linear(num_ftrs, 3)
 model_ft = model_ft.to(device)
-
+model_ft = nn.Threshold(0.2, 20)
 criterion = nn.CrossEntropyLoss()
 
 # Observe that all parameters are being optimized
@@ -166,14 +170,19 @@ optimizer_ft = optim.SGD(model_ft.parameters(), lr=0.001, momentum=0.9)
 exp_lr_scheduler = lr_scheduler.StepLR(optimizer_ft, step_size=7, gamma=0.1)
 
 model_ft = train_model(model_ft, criterion, optimizer_ft, exp_lr_scheduler,
-                       num_epochs=50)
+                       num_epochs =100)
 
 
-torch.save(model_ft.state_dict(), './resnetmodel3.pth')
+torch.save(model_ft.state_dict(), './final.pth')
 visualize_model(model_ft)
+plt.plot(train_losses, label='Training loss')
+plt.plot(test_losses, label='Validation loss')
+plt.legend(frameon=False)
+plt.show()
+plt.savefig(loss_cardiomegaly.png)
 plt.ioff()
 plt.show()
-model_ft.load_state_dict(torch.load('./resnetmodel3.pth'))
+"""model_ft.load_state_dict(torch.load('./resnetmodel3.pth'))
 model_ft.eval()
 from PIL import Image
 from torchvision import transforms
@@ -194,5 +203,5 @@ _, index = torch.max(out, 1)
 
 percentage = torch.nn.functional.softmax(out, dim=1)[0] * 100
 
-labels = ['pneumonia', 'cardiomegaly', 'nf']
-print(labels[index[0]], percentage[index[0]].item())
+labels = ['pneumonia', 'nf']
+print(labels[index[0]], percentage[index[0]].item())"""

@@ -17,6 +17,8 @@ j = 0
 k = 0
 l = 0
 m = 0
+n = 0
+o = 0
 new_df = df[df["C"].str.contains("Atelectasis")]
 df_2 = df[df["C"].str.contains("Nodule")]
 df_3 = df[df["C"].str.contains("Emphysema")]
@@ -30,6 +32,7 @@ df_10 = df[df["C"].str.contains("Infiltration")]
 df_11 = df[df["C"].str.contains("Hernia")]
 df_12 = df[df["C"].str.contains("Pneumothorax")]
 df_13 = df[df["C"].str.contains("Mass")]
+df_15 = df[df["C"].str.contains("Edema")]
 
 df_4.to_csv("hehd.csv")
 for index, row in df_2.iterrows():
@@ -61,10 +64,12 @@ for index, row in df_12.iterrows():
     l += 1
 for index, row in df_13.iterrows():
     m += 1
+for index, row in df_15.iterrows():
+    o += 1
 
-objects = ('Atelectasis', 'Nodule', "Emphysema", "Pneumonia", "Fibrosis", "Consolidation", "Cardiomegaly", "Pleural_Thickening", "Effusion", "Infiltration", "Hernia", "Pneumothorax", "Mass")
+objects = ('Atelectasis', 'Nodule', "Emphysema", "Pneumonia", "Fibrosis", "Consolidation", "Cardiomegaly", "Pleural Thickening", "Effusion", "Infiltration", "Hernia", "Pneumothorax", "Mass", "Edema")
 y_pos = np.arange(len(objects))
-performance = [a,b, c, d,e,f,g,h,i,j,k,l,m]
+performance = [a,b, c, d,e,f,g,h,i,j,k,l,m,o]
 
 font = {'family' : 'normal','weight' : 'bold','size'   : 8}
 fig, ax = plt.subplots()
@@ -74,10 +79,10 @@ ax.set_yticks(y_pos)
 ax.set_yticklabels(objects)
 ax.invert_yaxis()  # labels read top-to-bottom
 ax.set_xlabel('Number of Instances')
-ax.set_title("Single Disease Distribution")
+ax.set_title("Disease Distribution")
 ax.tick_params(axis='both', which='major', labelsize=5)
 ax.tick_params(axis='both', which='minor', labelsize=5)
 
 
-plt.savefig('single_disease_distribution_graph.pdf')
+plt.savefig('single_disease_distribution_graph.png')
 plt.show()

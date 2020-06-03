@@ -7,7 +7,7 @@ import pandas as pd
 m = []
 mu = 100  # mean of distribution
 sigma = 15  # standard deviation of distribution
-data = pd.read_csv('./cardiomegaly.csv')
+data = pd.read_csv('single_diagnosis.csv')
 df = pd.DataFrame(data)
 print(df)
 
@@ -28,5 +28,7 @@ ax.set_title('Age Distribution')
 
 # Tweak spacing to prevent clipping of ylabel
 fig.tight_layout()
+plt.xlim(right=100)
+plt.xlim(left = 0)
 plt.savefig('age_dist.pdf')
 plt.show()
